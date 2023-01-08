@@ -37,3 +37,7 @@
 Интегрируйте Grafana и Prometheus.
 
 Приложите скриншот дашборда (ID:11074) с поступающими туда данными из Node Exporter.
+
+![alt text](https://github.com/KozakPI/9-04/blob/main/promet_5_1.png)
+
+![alt text](https://github.com/KozakPI/9-04/blob/main/promet_5_2.png)
