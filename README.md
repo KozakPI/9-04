@@ -1,9 +1,11 @@
-Домашнее задание к занятию 9.4 «Prometheus»
+# Домашнее задание к занятию 9.4 «Prometheus»
 
 Задание 1
 Установите Prometheus.
 
 Приведите скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — [Ваши ФИО].
+
+https://github.com/KozakPI/9-04/blob/main/promet_1.png
 
 Задание 2
 Установите Node Exporter.
