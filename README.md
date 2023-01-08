@@ -12,6 +12,8 @@
 
 Приведите скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО].
 
+![alt text](https://github.com/KozakPI/9-04/blob/main/promet_2.png)
+
 Задание 3
 Подключите Node Exporter к серверу Prometheus.
 
