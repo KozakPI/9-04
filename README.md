@@ -5,7 +5,7 @@
 
 Приведите скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — [Ваши ФИО].
 
-https://github.com/KozakPI/9-04/blob/main/promet_1.png
+![alt text](https://github.com/KozakPI/9-04/blob/main/promet_1.png)
 
 Задание 2
 Установите Node Exporter.
