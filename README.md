@@ -29,6 +29,10 @@
 
 Приложите скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО.
 
+![alt text](https://github.com/KozakPI/9-04/blob/main/promet_4_1.png)
+
+![alt text](https://github.com/KozakPI/9-04/blob/main/promet_4_2.png)
+
 Задание 5*
 Интегрируйте Grafana и Prometheus.
 
